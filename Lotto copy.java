@@ -74,7 +74,7 @@ public class Lotto
         }else if(matches==5 && bnum==1){
             System.out.println("£100,000");
         }else{
-            System.out.println("No matching numbers");
+            System.out.println("Matching numbers:"+matches);
 
         }
     }
